@@ -1,1 +1,24 @@
-# GERENCIAMENTO_FRUTAS_CLI-
+Título do projeto: Exercício de POO para criar um ArrayList de gerenciamento de produtos (Frutas).
+
+
+
+🚀 Começando:CRIE UM PROJETO JAVA PARA O EXEMPLO DE ARRAYLIST;
+
+SIGA OS PASSOS DO EXEMPLO E CONSTRUA O CÓDIGO DIGITADO, O EXEMPLO ESTÁ DISPONÍVEL NO SLIDE 26 DA AULA 10;
+
+AO TÉRMINO EXECUTE O PROGRAMA PARA VER SE SUAS FUNCIONALIDADES ESTÃO CORRETAS;
+
+COMENTE O CÓDIGO INTEIRO DEMONSTRANDO SEUS CONHECIMENTOS SOBRE O MESMO;
+
+CRIE UM REPOSITÓRIO REMOTO COM TÍTULO: GERENCIAMENTO_FRUTAS_CLI;
+
+AO TÉRMINO CRIE O README.MD DO PROJETO, TIRE UM PRINT DO CONSOLE COM PROJETO FUNCIONANDO E INSIRA NO README.
+
+📋 Pré-requisitos: iDE Eclipse e suas ferramentas.
+
+Dar exemplos 🔧 : 
+
+
+
+IDE Eclipse 📌Eclipse versão 2023-12 ✒️ Autores Pedro Coan - - Exx 1 POO Ac1.
+![pooac2Array](https://github.com/user-attachments/assets/7081edcd-e960-4483-9580-dff8ed2f0361)
